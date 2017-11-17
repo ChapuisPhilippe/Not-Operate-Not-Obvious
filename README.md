@@ -1,3 +1,3 @@
 # Not-Operate-Not-Obvious
 Code lines around NoNo project 
-blablabla......
+blablabla......dans arduino ?
