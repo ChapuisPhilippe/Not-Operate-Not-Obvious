@@ -1,6 +1,6 @@
 # Not-Operate-Not-Obvious
-Code lines around NoNo experience
-Developments are always conducted in the same way:
+Code lines around NoNo experience.
+Developments are always conducted in the same way :
 A theoretical model developed on Mathcad. Presentation as html files.
 A scketch for each arduino card check.
 A processing scketch.
