@@ -1,6 +1,14 @@
 # Not-Operate-Not-Obvious
 Code lines around NoNo experience
-NoNo is construct with :   
+Developments are always conducted in the same way:
+A theoretical model developed on Mathcad. Presentation as html files.
+A scketch for each arduino card check.
+A processing scketch.
+
+NoNo is built with:
+Wood plates, threaded rods, nuts, screws.
+Three DC motors, two wheels and a sphere at the front.
+For electronics, two lidar, two imu, three arduino uno card and an adafruit card control engines. An optical barrier with a diode and a photo receiver.
 
 You 'll find 
 Arduino code to control lidar and optical barrier, IMU sensors and motors
