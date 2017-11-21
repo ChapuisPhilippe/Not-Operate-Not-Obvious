@@ -8,4 +8,4 @@ Processing code to command the robot.
 Those program lines are associated with the youtube chanel presentation.
  https://www.youtube.com/channel/UCAbbqYojAufV02cPu74SqUg/
 As the control command possibilities are a lot as we can imagine.
-NoNo is a kind of practical application around methods.
+NoNo is a kind of practical application around different methods.
